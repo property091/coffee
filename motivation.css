@@ -1,0 +1,34 @@
+.motivation {
+    position: absolute;
+    background-color: transparent;
+
+    width: 100vw;
+    height: 40vh;
+
+    margin-top: 550vh;
+    color: aliceblue;
+
+    text-align: center;
+}
+
+.motivation h1 {
+    color: aliceblue;
+    text-align: center;
+
+    font-size: 4vw;
+
+}
+
+.motivation div {
+    position: absolute;
+    text-align: left;
+    margin-top: 1%;
+    
+    font-size: 2.5vw;
+    letter-spacing: 3px;
+
+    font-weight: 100;
+    margin-left: 27%;
+
+   
+}
